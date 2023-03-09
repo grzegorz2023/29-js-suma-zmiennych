@@ -4,3 +4,4 @@ function add(firstNumber, secondNumber) {
     let suma = firstNumber + secondNumber;
     return suma;
 }
+add (firstNumber, secondNumber);
